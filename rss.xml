@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title><![CDATA[Remote Year]]></title>
+        <description><![CDATA[Remote Year]]></description>
+        <link>http://github.com/dylang/node-rss</link>
+        <generator>The Grid</generator>
+        <lastBuildDate>Sat, 02 Jan 2016 19:51:47 GMT</lastBuildDate>
+        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[South America ]]></title>
+            <description><![CDATA[<article><h1>South America </h1><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/05896753d6692dcf3587db29a6fb661ba7ecc534.jpg"></article>]]></description>
+            <link>undefinedsouth-america/index.html</link>
+            <guid isPermaLink="false">72e2067b-fa79-4429-a279-be7aab8d2402</guid>
+            <pubDate>Sat, 02 Jan 2016 19:51:40 GMT</pubDate>
+        </item>
+    </channel>
+</rss>
