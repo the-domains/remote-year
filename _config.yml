@@ -1,6 +1,6 @@
 name: Remote Year
 favicon: null
-layout_spectrum: 0.96661
+layout_spectrum: 0.995
 typography_spectrum: 0.37396
 title: '12 cities, 11 countries, 12 months'
 cta:
@@ -17,11 +17,11 @@ opengraph:
   appId: null
 color:
   brandColors:
-    - '#81b3ca'
-    - '#038cb4'
-    - '#000000'
-    - '#33301f'
-    - '#ded9c2'
+    - '#97bdda'
+    - '#ff7e39'
+    - '#003d6c'
+    - '#000400'
+    - '#e1f1f2'
   brandStrength: 0.0625
   lightness: 0.6557646167930216
   saturation: 0.875
