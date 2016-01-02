@@ -1,0 +1,28 @@
+name: Remote Year
+favicon: null
+layout_spectrum: 0.07079852232709527
+typography_spectrum: 0.6145855409558862
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#E0FBFC'
+    - '#C2DFE3'
+    - '#9DB4C0'
+    - '#5C6B73'
+    - '#253237'
+  brandStrength: 0.20803999877534807
+  lightness: 0.6557646167930216
+  saturation: 0.7918921117670834
+  rhythmicContrast: 0.3043149260338396
+purpose: []
